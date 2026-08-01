@@ -1,1 +1,2 @@
 {"jogo_id": "snake", "titulo": "Cobra Estelar"}
+{"jogo_id": "dino", "titulo": "Aventura Luminosa"}
