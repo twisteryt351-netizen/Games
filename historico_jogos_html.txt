@@ -1,3 +1,4 @@
 {"jogo_id": "snake", "titulo": "Cobra Estelar"}
 {"jogo_id": "dino", "titulo": "Aventura Luminosa"}
 {"jogo_id": "snake", "titulo": "Floresta Encantada"}
+{"jogo_id": "dino", "titulo": "Aventura Estelar"}
