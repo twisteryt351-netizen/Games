@@ -4,3 +4,4 @@
 {"jogo_id": "dino", "titulo": "Aventura Estelar"}
 {"jogo_id": "flappy", "titulo": "Aventura Alada"}
 {"jogo_id": "snake", "titulo": "Jardim Mágico"}
+{"jogo_id": "dino", "titulo": "Aventura Estelar"}
