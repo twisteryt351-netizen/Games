@@ -10,3 +10,4 @@
 {"jogo_id": "flappy", "titulo": "Voo da Libelula"}
 {"jogo_id": "snake", "titulo": "Ouroboros"}
 {"jogo_id": "flappy", "titulo": "Aventura Alada"}
+{"jogo_id": "dino", "titulo": "Aventura Estelar"}
