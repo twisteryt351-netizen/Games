@@ -13,3 +13,4 @@ Castlevania|na tela de selecao de dificuldade, o cod
 Dungeons & Dragons|a regra da 'vantagem' (rolar dois dados 
 Tekken 3|completar o modo Arcade com certos perso
 The Legend of Zelda: Breath of the Wild|cozinhar refeicoes combinando ingredient
+World of Warcraft|farmar reputacao com faccoes especificas
