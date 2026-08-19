@@ -16,3 +16,4 @@
 {"jogo_id": "snake", "titulo": "Orixás da Selva"}
 {"jogo_id": "dino", "titulo": "Aventura Estelar"}
 {"jogo_id": "snake", "titulo": "Neon Florestal"}
+{"jogo_id": "flappy", "titulo": "Tempestade de Neon"}
