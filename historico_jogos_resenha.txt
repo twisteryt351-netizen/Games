@@ -16,3 +16,4 @@ o 'Tennis for Two' (1958), um dos primeiros jogos eletronicos da historia
 o Halo: Combat Evolved e o nascimento de um fenomeno no Xbox
 o Pokemon Trading Card Game e a febre de colecionar e trocar cartas
 o Dota 2 e o torneio The International com premiacoes milionarias
+a criacao do 'Pong' pela Atari e o nascimento da industria dos video games
