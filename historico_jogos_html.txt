@@ -18,3 +18,4 @@
 {"jogo_id": "snake", "titulo": "Neon Florestal"}
 {"jogo_id": "flappy", "titulo": "Tempestade de Neon"}
 {"jogo_id": "snake", "titulo": "Serpente Neon da Selva"}
+{"jogo_id": "dino", "titulo": "Neon Jungle"}
